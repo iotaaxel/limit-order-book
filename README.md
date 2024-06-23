@@ -1,5 +1,7 @@
 # limit-order-book
 
+**Disclaimer**: This was the initial prototype. The beta-friendly version is a private WIP. Options 1 and 2 are two separate brainstorms. There are tradeoffs for each. I have generally combined both ideas. I will be testing this on real-world data. When I am done, the code will give hedge fund high-frequency trading vibes. 
+
 # Option 1: 
 
 A limit order book is a data structure used in financial markets to manage buy and sell orders. It is a priority queue where orders are sorted by price and then by time. The implementation of a limit order book in Python, considering the time in force.
